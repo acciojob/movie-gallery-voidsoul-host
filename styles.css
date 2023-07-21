@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.fluid{
+.container-fluid{
 	display: flex;
 	justify-content: space-around
 }
